@@ -1,0 +1,3 @@
+select id,titel,inhalt,erledigt from aufgaben;
+
+insert into aufgaben(titel,inhalt,erledigt) values ('kleines cms','ich hoffe das wird bis morgen fertig','0');

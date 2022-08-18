@@ -1,0 +1,4 @@
+insert into aufgaben(titel,inhalt,erledigt) values
+('checkliste','das ist ein Testinhalt','0'),
+('kalender','das ist ein weiterer Testinhalt','1'),
+('webshop','das ist noch ein weiterer Testinhalt','1');
